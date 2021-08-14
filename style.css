@@ -58,8 +58,7 @@ div.separator {
 
 @media (prefers-color-scheme: dark) {
   body {
-    background: #3f37c9;
-    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#3f37c9",endColorstr="#480ca8",GradientType=1);
+    background-image: linear-gradient(#3f37c9, #480CA8);
     color: #fff;
   }
 
